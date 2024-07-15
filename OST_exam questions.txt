@@ -1,0 +1,37 @@
+
+Spark actions
+Spark transformations
+What's common between lineage graphs and lazy evaluations. What are they?
+Similarity between map phase and spark
+Hadoop
+Kafka vs spark
+Main common thing between spark transformations and mongoDB
+-Difference and impact between lambda and spark streaming
+- Shuffle phase vs rdd
+ MapReduce(general)
+MongoDB
+What is MongoDB for?
+What type of data MongoDB use?
+Flink
+storm
+Difference between Flink and storm (main thing he wanted to listen - guarantee)
+Storm transformations
+cassandra
+- which database to use for multiple data centres data storage - cassandra or hdfs?
+-- flink guarantee ? Exactly once.  then he asked what is exactly once
+Flink, checkpoints, how we do the checkpoint, why is it needed
+- Docker vs virtual machine
+Tell about Docker, what does it do, what's container, does it replace OS?
+ fault tolerance in kafka, replica
+-Logstash(input types)
+- Hbase, hbase vs hdfs
+HDFS, parts in architecture
+- can we use spark for High speed computing: facebook uses cloud or HSC
+- what is better cloud services or physical servers( answer depends they didn’t accept)
+- - high speed computing vs cloud computing
+Slurm: Is it cloud based or hpc?
+-SLURM(general)
+ Partitioning
+ Replication
+ Cluster management
+cloud computing and flarma(something like this) 

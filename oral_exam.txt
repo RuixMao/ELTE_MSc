@@ -1,0 +1,36 @@
+ nwhat attribute similarirty to use in clustering ?
+how can we measure smilarity between clusters?
+how the assocation rules are generated ? (lecture 3 slide 22)
+What are the association rules? 
+what are the inputs for association rules function ?
+What is DBSCAN and how does it work ?
+what are the advantages of DBSCAN ?
+can we use Silhouette score in DBSCAN?
+Explain the parameters of DBSCAN separately?
+What is the difference between DBSCAN and KMeans?
+What is lift and confidence?
+what is silhoutte ?
+what is corelation in similiratity ?
+what is items and itemset in pattern mining ?
+what is discriminant function ?
+what is bias rule in discriminant function ?  
+how can we generate frequents itemset ?
+which is best appriori or fp growth and why?
+what is Simpson's paradox ?
+How apriori algorithm works ?
+What is bias and variance?
+what is regularization ?
+what is the bias variance tradeoff ?
+what is confidence based pruning ?
+which is best appriori or fp growth and why?
+what is external and internal evalution of clusters ?
+Describe FP-growth algorithm ?
+what is C parameter in svc ?
+Hyperparameters vs parameters
+What is Rand index?
+variance-bias will increase or decrease for models (report question)
+what is elbow method, is my cluster a good cluster? (report question)
+when the value of K increases how will be your bias/variance ? (The answer is either high or low) (report question)
+what is Hierarchical Clustering ?
+What is the relationship between Minkowski distance and Euclidean distance?
+How to evaluate clusters?
